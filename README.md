@@ -1,4 +1,4 @@
-## Hi There [👋](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
+<h2> Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
 <!--
 **ManiXD/ManiXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
