@@ -12,11 +12,12 @@ I live in Iran and I am a Developer 👨‍💻 and a coding enthusiast.
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
   <img src="https://skillicons.dev/icons?i=cs&theme=dark" />
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" />
 
 </br>
   <img src="https://skillicons.dev/icons?i=java&theme=dark" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=mariadb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
   <img src="https://skillicons.dev/icons?i=nginx&theme=dark" />
   <img src="https://skillicons.dev/icons?i=git&theme=dark" />
 <br/>
