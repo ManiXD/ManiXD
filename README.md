@@ -8,14 +8,11 @@ I am Mani,
 I live in Iran and I am a Developer 👨‍💻 and a coding enthusiast.
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> Skills
-![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
-![C#](https://skillicons.dev/icons?i=cs&theme=dark)
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
-![Java](https://skillicons.dev/icons?i=java&theme=dark)
-![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
-![MariaDB](https://skillicons.dev/icons?i=mariadb&theme=dark)
-![Nginx](https://skillicons.dev/icons?i=nginx&theme=dark)
-![Git](https://skillicons.dev/icons?i=git&theme=dark)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+</p>
 
 
 
