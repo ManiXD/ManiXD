@@ -27,4 +27,15 @@ I live in Iran and I am a Developer 👨‍💻 and a coding enthusiast.
   <img src="https://skillicons.dev/icons?i=nginx&theme=dark" />
   <img src="https://skillicons.dev/icons?i=git&theme=dark" />
 <br/>
-</div> 
+</div>
+
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> SoftSkills
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" />
+<img src="https://skillicons.dev/icons?i=css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=discordjs&theme=dark" />
+</div>
