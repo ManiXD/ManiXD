@@ -44,10 +44,19 @@ I live in Iran and I am a Developer 👨‍💻 and a coding enthusiast.
 <br/>
 </div>
 
-## <img src = "https://cdn.dribbble.com/userupload/42505250/file/original-2ae2e998e3844b25aa34874c543a34df.gif" width = 28px> Other Tools
+## <img src = "https://cdn.dribbble.com/userupload/42505250/file/original-2ae2e998e3844b25aa34874c543a34df.gif" width = 34px> Other Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pr&theme=dark" />
   <img src="https://skillicons.dev/icons?i=ae&theme=dark" />
   <img src="https://skillicons.dev/icons?i=ps&theme=dark" />
   <img src="https://skillicons.dev/icons?i=ai&theme=dark" />
 </div>
+
+## 💬 Contact
+- I am open to developing proposals
+- Contact me on: [![Discord](https://dcbadge.limes.pink/api/shield/769925017445335050)](https://discord.com/users/769925017445335050)
+
+## Stats
+</br>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<br/>
