@@ -2,7 +2,7 @@
 <div align=center>
 
 <p align="center">
-  <a href="[https://github.com/DenverCoder1/readme-typing-svg](https://git.io/typing-svg)">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&color=005780&width=435&lines=Software+Developer;Gaming+Enthusiast" alt="Typing SVG" /></a>
 </p>
   
